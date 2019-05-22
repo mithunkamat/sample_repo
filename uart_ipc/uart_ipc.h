@@ -1,0 +1,1 @@
+Architecture document published to Confluence page
