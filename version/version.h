@@ -1,1 +1,1 @@
-#define VERSION (0x00000001)
+#define VERSION (0x00010000)
